@@ -1,0 +1,20 @@
+{
+  "name": "refactortheparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.2",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
